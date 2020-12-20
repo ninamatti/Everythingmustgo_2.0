@@ -15,17 +15,44 @@ h2 {
     color: black;
 }
 
+#password-screen {
+    margin-top: 50px;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:#19d3da;
+}
+
+.wrong-password {
+    color: red;
+}
+
 .card {
     background-color: #eeeeee;
-    height: 500px;
+    height: 600px;
 }
 
 .card-image {
-    padding: 15px;
-    background-color: white;
+    /* padding: 15px; */
+    background-color: #a7a7a7; 
+    height: 300px;
+    display: block;
+    overflow: auto;
 }
 
+.item-image {
+    display: inline-block;
+    vertical-align: middle;
+    /* display: block; */
+    /* height: auto;
+    width: auto; */
+}
+
+
 .card-title {
+    margin-top: 30px;
     font-size: 24px;
 }
 
@@ -43,7 +70,7 @@ h2 {
 .prize {
     margin-bottom: 10px;
     margin-top: 10px;
-    padding: 10px;
+    /* padding: 10px; */
     /*background-color: rgb(98, 201, 98);*/
 }
 
@@ -55,4 +82,8 @@ h2 {
     margin-top: 20px;
     background-color: #19d3da;
     color: black;
+}
+
+.hidden {
+    display: none;
 }
