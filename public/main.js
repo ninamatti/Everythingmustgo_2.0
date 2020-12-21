@@ -22,14 +22,14 @@ let itemDatabase = [
         'number': 0,
         'name': '0. Road bike + items',
         'url': 'https://i.ibb.co/v1spKjn/RoadBike.jpg',
-        'description': 'Hasa R5 Road Bike Shimano Tourney 500 in black and yellow. Used condition, mechanically sound, runs perfectly. Several scratches on the frame and the handlebar. Comes with front- and backlight, a case for your phone installed on the handlebar, a stand and a brand new pump.',
+        'description': 'Hasa R5 Road Bike Shimano Tourney 500 in black and yellow. Used condition, mechanically sound, runs perfectly. Several scratches on the frame and the handlebar. Comes with front- and backlight, a case for your phone installed on the handlebar, a stand and a brand new pump. Handover for this item around 4th January.',
         'prize': '20,000 Yen'
     },
     {
         'number': 1,
         'name': '1. City bike',
         'url': 'https://i.ibb.co/FBJPYmY/CityBike.jpg',
-        'description': 'Second-hand, good condition and mechanically sound. For a comfortable cruise through Tokyo.',
+        'description': 'Second-hand, good condition and mechanically sound. For a comfortable cruise through Tokyo. Handover for this item around 4th January.',
         'prize': '5,000 Yen'
     },
     {
