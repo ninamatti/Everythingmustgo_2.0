@@ -6,10 +6,10 @@ https://moveout-marketplace.web.app/
 
 ## Tech used
 
-MaterializeCSS
-VanillaJS
-Firebase storage
-Firebase Deployment
+-MaterializeCSS
+-VanillaJS
+-Firebase storage
+-Firebase Deployment
 
 
 ## Screenshot
