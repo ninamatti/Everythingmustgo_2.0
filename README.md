@@ -1,5 +1,5 @@
 # Everythingmustgo_2.0 #
-Web page created to show all available items we wanted to sell when we were moving countries. Lists items with picture, description and price. Styling structure created with MaterializeCSS.
+Web page created to show all available items we wanted to sell when we were moving countries. Lists items with picture, description and price. Styling structure created with MaterializeCSS. Project initially created and deployed over a period of 5 days.
 
 Deployed at:
 https://moveout-marketplace.web.app/
